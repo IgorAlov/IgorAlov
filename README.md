@@ -5,7 +5,7 @@
 - Knowledge of the principles of the building reliable networks like as datacenter network, backbone network and access network;
 - Favorite Slackware and Debian Linux distros;
 - Managering distributed Proxmox/ceph cloud, builded on EVPN/VxLAN Network (Juniper + FRR);
-- Have a programing skills on PHP and C/C++;
+- Have a programing skills on PHP, Python3 and C/C++;
 - 📫 If you need any assistance please feel free to contact!
 
 <!---
