@@ -7,8 +7,7 @@
 - Managering distributed Proxmox/ceph cloud, builded on EVPN/VxLAN Network (Juniper + FRR);
 - Have a programing skills on PHP, Python3 and C/C++;
 - 📫 If you need any assistance please feel free to contact!
-
-<!---
-IgorAlov/IgorAlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My [certificates and achivements](https://drive.google.com/drive/folders/1aU8dZ-ih6sJs2zlvBQsicuawsRTnpaDN);
+- Public profiles:
+  * [Facebook](https://facebook.com/igor.alov);  
+  * [LinkedIn](https://www.linkedin.com/in/igoralov/);
