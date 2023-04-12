@@ -12,9 +12,9 @@
   * [Facebook](https://facebook.com/igor.alov);  
   * [LinkedIn](https://www.linkedin.com/in/igoralov/);
 - Presentations and meetups:
-* PGConf.Russia 2023 (Moscow, Russia) 
+  * PGConf.Russia 2023 (Moscow, Russia) 
     * Pgpool-II in the "Master-Master" mode or Network engineer’s overview of the PostgreSQL load balances solution. [Docs](https://drive.google.com/file/d/1NQLgwqa1bGDMmSushp7PHIbdT7rbeG1y/view?usp=sharing), [Git](https://github.com/IgorAlov/pg_pool2_ng)
-* Selectel Network MeetUp 2 (Saint-Petersburg, Russia) 
+  * Selectel Network MeetUp 2 (Saint-Petersburg, Russia) 
     * A history about the Solution of a task on building a 400GBps reliable network between Saint-Petersburg and Moscow datacenters [Video](https://youtu.be/LKjKtfqsbBs?t=590), [Docs](https://docs.google.com/presentation/d/1I--A7xYu42oj5KB4EZ2yw9o9zO2IMNTYFaLDzRHu4qc/edit?usp=sharing)
-  * Netural InterconnectDays (The Hague, Netherlands)
-    * Russian Internet Market, Local Internet Exchanges [Docs](https://drive.google.com/file/d/1phbQxQTULBXgakFd9eFXZ7aOSmrpXixp/view?usp=sharing)
+   * Netural InterconnectDays (The Hague, Netherlands)
+     * Russian Internet Market, Local Internet Exchanges [Docs](https://drive.google.com/file/d/1phbQxQTULBXgakFd9eFXZ7aOSmrpXixp/view?usp=sharing)
