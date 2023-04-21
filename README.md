@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgorAlov certified Network Engeneer from St.-Ptersburg, Russia;
+- 👋 Hi, I’m @IgorAlov certified Network Engineer from St.-Petersburg, Russia;
 - Master’s degree in Telecommunications Engineering at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications.;
 - I have been working in telecommunications since 2007;
 - Experience in configuring and building networks using equipment from different vendors: switches, routers, security firewalls;
