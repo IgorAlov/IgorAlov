@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @IgorAlov certified Network Engineer from St.-Petersburg, Russia;
-- Master’s degree in Telecommunications Engineering at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications.;
-- I have been working in telecommunications since 2007;
-- Experience in configuring and building networks using equipment from different vendors: switches, routers, security firewalls;
-- Knowledge of the principles of the building reliable networks like as datacenter network, backbone network and access network;
-- Favorite Slackware and Debian Linux distros;
-- Managing distributed Proxmox/ceph cloud, build on EVPN/VxLAN Network (Juniper + FRR);
-- Have a programing skills on PHP, Python3 and C/C++;
-- 📫 If you need any assistance please feel free to contact!
+- 👋 Hi, I'm @IgorAlov. Certified Network Engineer from St.-Petersburg, Russia;
+- I graduated from the Bonch-Bruevich St.-Petersburg State University of Telecommunications with a Master's degree in Telecommunications Engineering;
+- I have been working in the telecommunications industry since 2007;
+- Experience in configuration and deployment of networks using equipment from different vendors: switches, routers, security firewalls;
+- Understanding the principles of building reliable networks such as Data Center Network, Backbone Network and Access Network;
+- Prefer Slackware and Debian Linux distributions;
+- Manage distributed Proxmox/ceph cloud. Build on EVPN/VxLAN network (Juniper + FRR);
+- Use modern technologies such as IaC, virtualize and containerize; 
+- Working with Ansible, Terraform, Terragrunt;
+- Using latest tools for infrastructure monitoring; 
+- Have programming skills in PHP, Python3 and C/C++;
+- 📫 If you are in need of any help, please feel free to contact me!
 - My [certificates and achivements](https://drive.google.com/drive/folders/1aU8dZ-ih6sJs2zlvBQsicuawsRTnpaDN);
 - Public profiles:
   * [Facebook](https://facebook.com/igor.alov);  
